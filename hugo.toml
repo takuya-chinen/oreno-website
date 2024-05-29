@@ -1,0 +1,8 @@
+baseURL = 'https://github.com/takuya-chinen/oreno-website/e245745'
+languageCode = 'ja'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
+mainSections = ["blog"]
+title = 'Oreno Site'
+theme = "blowfish"
+
